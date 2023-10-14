@@ -5,9 +5,13 @@
 Frontend: http://students.poridhi.com 
 backend:  http://api.students.poridhi.com
 
-####  Write the nginx config so that when someone sends a request to this Frontend URL it goes to the frontend container. 
+#### 1.  Write the nginx config so that when someone sends a request to this Frontend URL it goes to the frontend container. 
 
-####  If you search this backend URL  it will go to the Backend container.
+#### 2. If you search this backend URL  it will go to the Backend container.
+
+<p align=center>
+    <img src="assets/3-subent.png" width="65%" height="65%">
+</p>
 
 
 
